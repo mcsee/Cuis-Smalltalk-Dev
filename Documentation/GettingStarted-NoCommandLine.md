@@ -7,7 +7,7 @@ If you want to contribute back to the community, you might subscribe to the Cuis
 The Cuis image specified is the most current one. The VM specified is the latest one too.
 
 ## On Windows ##
-* Crea a new folder in your machine using Windows Explorer
+* Create a new folder in your machine using Windows Explorer
 * download [`master.zip`](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev/archive/master.zip)
 * extract the contents of the zip file to your folder
 * download [`cog_win32x86_squeak.cog.spur_201706141439.zip`](https://bintray.com/opensmalltalk/vm/download_file?file_path=cog_win32x86_squeak.cog.spur_201706141439.zip)
